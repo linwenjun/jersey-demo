@@ -12,4 +12,4 @@ gradle jettyRun
 ```
 
 ### 在浏览器中打开 
-    http://localhost:8080/projectURL/hello/world
+    http://localhost:8080/[projectURL]/hello/world
